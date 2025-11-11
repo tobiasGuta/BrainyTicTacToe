@@ -35,3 +35,6 @@ Where:
 -   `gamma` = discount factor (how much it cares about future rewards)
 
 So basically, **the AI "remembers" which moves were good and gradually gets better**
+
+<img width="1901" height="993" alt="image" src="https://github.com/user-attachments/assets/37087012-94ef-4fb6-b942-154908e925bb" />
+
